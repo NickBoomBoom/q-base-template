@@ -1,0 +1,26 @@
+{
+  "name": "q-base-template",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "oxlint": "^0.9.3",
+    "sass": "^1.78.0",
+    "unplugin-auto-import": "^0.18.2",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.3.1",
+    "vite-plugin-oxlint": "^1.0.5"
+  }
+}
